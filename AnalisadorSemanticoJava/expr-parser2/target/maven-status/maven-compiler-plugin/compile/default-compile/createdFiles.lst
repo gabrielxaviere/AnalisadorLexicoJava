@@ -1,0 +1,14 @@
+br\ufscar\dc\compiladores\expr\parser\ExpressoesParser$ExpressaoContext.class
+br\ufscar\dc\compiladores\expr\parser\ExpressoesParser.class
+br\ufscar\dc\compiladores\expr\parser\ExpressoesListener.class
+br\ufscar\dc\compiladores\expr\parser\ExpressoesParser$ProgramaContext.class
+br\ufscar\dc\compiladores\expr\parser\ExpressoesBaseListener.class
+br\ufscar\dc\compiladores\expr\parser2\Calculador.class
+br\ufscar\dc\compiladores\expr\parser\ExpressoesParser$FatorContext.class
+br\ufscar\dc\compiladores\expr\parser\ExpressoesLexer.class
+br\ufscar\dc\compiladores\expr\parser\ExpressoesParser$Op1Context.class
+br\ufscar\dc\compiladores\expr\parser\ExpressoesParser$TermoContext.class
+br\ufscar\dc\compiladores\expr\parser2\Principal.class
+br\ufscar\dc\compiladores\expr\parser\ExpressoesParser$Op2Context.class
+br\ufscar\dc\compiladores\expr\parser\ExpressoesVisitor.class
+br\ufscar\dc\compiladores\expr\parser\ExpressoesBaseVisitor.class

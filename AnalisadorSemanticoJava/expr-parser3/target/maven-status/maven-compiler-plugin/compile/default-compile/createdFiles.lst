@@ -1,0 +1,16 @@
+br\ufscar\dc\compiladores\expr\parser\ExpressoesParser.class
+br\ufscar\dc\compiladores\expr\parser\ExpressoesParser$ExpContext.class
+br\ufscar\dc\compiladores\expr\parser3\EntradaTabelaDeSimbolos.class
+br\ufscar\dc\compiladores\expr\parser\ExpressoesListener.class
+br\ufscar\dc\compiladores\expr\parser\ExpressoesParser$ProgramaContext.class
+br\ufscar\dc\compiladores\expr\parser\ExpressoesParser$ListaDeclContext.class
+br\ufscar\dc\compiladores\expr\parser3\Escopos.class
+br\ufscar\dc\compiladores\expr\parser\ExpressoesBaseListener.class
+br\ufscar\dc\compiladores\expr\parser3\TabelaDeSimbolos.class
+br\ufscar\dc\compiladores\expr\parser\ExpressoesLexer.class
+br\ufscar\dc\compiladores\expr\parser\ExpressoesParser$TermoContext.class
+br\ufscar\dc\compiladores\expr\parser3\Principal.class
+br\ufscar\dc\compiladores\expr\parser\ExpressoesParser$DeclContext.class
+br\ufscar\dc\compiladores\expr\parser\ExpressoesVisitor.class
+br\ufscar\dc\compiladores\expr\parser\ExpressoesBaseVisitor.class
+br\ufscar\dc\compiladores\expr\parser3\Calculador.class
