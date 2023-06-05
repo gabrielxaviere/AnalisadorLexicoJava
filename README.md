@@ -1,6 +1,7 @@
 # AnalisadorLexicoJava
 
-```:DECLARACOES
+```
+:DECLARACOES
 argumento:INT
 fatorial:INT
 
@@ -14,13 +15,17 @@ ENQUANTO argumento < 1000
       ATRIBUIR fatorial * (argumento - 1) A fatorial
       ATRIBUIR argumento - 1 A argumento
    FIM
-IMPRIMIR fatorial```
+IMPRIMIR fatorial
+```
 
-```java -jar "/Users/daniellucredio/NetBeansProjects/AlgumaLex/dist/AlgumaLex.jar" /Users/daniellucredio/Desktop/teste.txt```
+```
+java -jar "/Users/daniellucredio/NetBeansProjects/AlgumaLex/dist/AlgumaLex.jar" /Users/daniellucredio/Desktop/teste.txt
+```
 
 # Análise Sintática
 
-```:DECLARACOES
+```
+:DECLARACOES
 numero1:INTEIRO
 numero2:INTEIRO
 numero3:INTEIRO
@@ -51,17 +56,22 @@ SE numero2 > numero3 ENTAO
    FIM
 IMPRIMIR numero1
 IMPRIMIR numero2
-IMPRIMIR numero3```
+IMPRIMIR numero3
+```
 
 
-```java -jar /Users/daniellucredio/NetBeansProjects/alguma-sintatico/target/alguma-sintatico-1.0-SNAPSHOT-jar-with-dependencies.jar /Users/daniellucredio/Desktop/teste.txt ```
+```
+java -jar /Users/daniellucredio/NetBeansProjects/alguma-sintatico/target/alguma-sintatico-1.0-SNAPSHOT-jar-with-dependencies.jar /Users/daniellucredio/Desktop/teste.txt ```
 
 # Análise Semântica 
 
-```(34 - 3 + 2) * (41 + 3)```
+```
+(34 - 3 + 2) * (41 + 3)
+```
 
 
-```:DECLARACOES
+```
+:DECLARACOES
 numero1:INTEIRO
 numero2:INTEIRO
 numero3:INTEIRO
@@ -94,12 +104,14 @@ SE numero2 > numero3 ENTAO
 IMPRIMIR numero1
 IMPRIMIR numero5 + 3
 IMPRIMIR 2 + 2.4
-IMPRIMIR 'FIM'```
+IMPRIMIR 'FIM'
+```
 
 # Gerador de código
 
 
-```:DECLARACOES
+```
+:DECLARACOES
 num:INTEIRO
 potencia:INTEIRO
 aux:INTEIRO
@@ -121,10 +133,12 @@ SENAO
          FIM
    FIM
 IMPRIMIR 'O resultado é:'
-IMPRIMIR resultado```
+IMPRIMIR resultado
+```
 
 
-```:DECLARACOES
+```
+:DECLARACOES
 argumento:INTEIRO
 fatorial:INTEIRO
 
@@ -138,10 +152,12 @@ ENQUANTO argumento > 1
       ATRIBUIR fatorial * (argumento - 1) A fatorial
       ATRIBUIR argumento - 1 A argumento
    FIM
-IMPRIMIR fatorial```
+IMPRIMIR fatorial
+```
 
 
-```:DECLARACOES
+```
+:DECLARACOES
 numero1:INTEIRO
 numero2:INTEIRO
 numero3:INTEIRO
@@ -175,5 +191,5 @@ SE numero2 > numero3 ENTAO
 FIMSE
 IMPRIMIR numero1
 IMPRIMIR numero2
-IMPRIMIR numero3```
-
+IMPRIMIR numero3
+```
