@@ -61,7 +61,7 @@ IMPRIMIR numero3
 
 
 ```
-java -jar /Users/daniellucredio/NetBeansProjects/alguma-sintatico/target/alguma-sintatico-1.0-SNAPSHOT-jar-with-dependencies.jar /Users/daniellucredio/Desktop/teste.txt ```
+java -jar /Users/daniellucredio/NetBeansProjects/alguma-sintatico/target/alguma-sintatico-1.0-SNAPSHOT-jar-with-dependencies.jar /Users/daniellucredio/Desktop/teste.txt 
 
 # Análise Semântica 
 
